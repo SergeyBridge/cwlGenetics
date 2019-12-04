@@ -1,2 +1,2 @@
 # cwlGenetics
-Common Worflow Language exaple project
+Common Worflow Language example 
